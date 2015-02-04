@@ -32,7 +32,7 @@ GM.Config.allowvnocollide 				= false
 -- alltalk - Enable for global chat, disable for local chat.
 GM.Config.alltalk 						= false
 -- autovehiclelock - Enable/Disable automatic locking of a vehicle when a player exits it.
-GM.Config.autovehiclelock 				= false
+GM.Config.autovehiclelock 				= true
 -- babygod - people spawn godded (prevent spawn killing)
 GM.Config.babygod 						= true
 -- canforcedooropen - whether players can force an unownable door open with lockpick or battering ram or w/e
@@ -72,7 +72,7 @@ GM.Config.dropmoneyondeath 				= false
 -- droppocketarrest - Enable/disable whether people drop the stuff in their pockets when they get arrested.
 GM.Config.droppocketarrest 				= false
 -- droppocketdeath - Enable/disable whether people drop the stuff in their pockets when they die.
-GM.Config.droppocketdeath 				= true
+GM.Config.droppocketdeath 				= false
 -- dropweapondeath - Enable/disable whether people drop their current weapon when they die.
 GM.Config.dropweapondeath 				= false
 -- Whether players can drop the weapons they spawn with
@@ -82,7 +82,7 @@ GM.Config.dynamicvoice 					= true
 -- earthquakes - Enable/disable earthquakes.
 GM.Config.earthquakes 					= false
 -- enablebuypistol - Turn /buy on of off.
-GM.Config.enablebuypistol 				= true
+GM.Config.enablebuypistol 				= false
 -- enforceplayermodel - Whether or not to force players to use their role-defined character models.
 GM.Config.enforceplayermodel 			= true
 -- globalshow - Whether or not to display player info above players' heads in-game.
@@ -116,13 +116,13 @@ GM.Config.npcarrest 					= true
 -- ooc - Whether or not OOC tags are enabled.
 GM.Config.ooc 							= true
 -- propertytax - Enable/disable property tax.
-GM.Config.propertytax 					= false
+GM.Config.propertytax 					= true
 -- proppaying - Whether or not players should pay for spawning props.
 GM.Config.proppaying 					= false
 -- propspawning - Enable/disable props spawning for non-admins.
 GM.Config.propspawning 					= true
 -- removeclassitems - Enable/disable shipments/microwaves/etc. removal when someone changes team.
-GM.Config.removeclassitems 				= true
+GM.Config.removeclassitems 				= false
 -- respawninjail - Enable/disable whether people can respawn in jail when they die
 GM.Config.respawninjail 				= true
 -- restrictallteams - Enable/disable Players can only be citizen until an admin allows them.
@@ -175,7 +175,7 @@ GM.Config.babygodtime					= 5
 -- Leave this on at least a few seconds to prevent people from spamming sounds. Set to 0 to disable.
 GM.Config.chatsoundsdelay				= 5
 -- deathfee - the amount of money someone drops when dead.
-GM.Config.deathfee						= 30
+GM.Config.deathfee						= 50
 -- decaltimer - Sets the time to clear clientside decals. (seconds)
 GM.Config.decaltimer					= 120
 -- demotetime - Number of seconds before a player can rejoin a team after demotion from that team.
@@ -209,7 +209,7 @@ GM.Config.moneyRemoveTime				= 600
 -- mprintamount - Value of the money printed by the money printer.
 GM.Config.mprintamount					= 250
 -- normalsalary - Sets the starting salary for newly joined players.
-GM.Config.normalsalary					= 45
+GM.Config.normalsalary					= 8
 -- npckillpay - Sets the money given for each NPC kill.
 GM.Config.npckillpay					= 10
 -- paydelay - Sets how long it takes before people get salary
@@ -221,7 +221,7 @@ GM.Config.pricecap						= 500
 -- pricemin - The minimum price of items (using /price)
 GM.Config.pricemin						= 50
 -- propcost - How much prop spawning should cost. (prop paying must be enabled for this to have an effect)
-GM.Config.propcost						= 10
+GM.Config.propcost						= 0
 -- quakechance - Chance of an earthquake happening.
 GM.Config.quakechance					= 4000
 -- respawntime - Minimum amount of seconds a player has to wait before respawning.
@@ -280,8 +280,7 @@ GM.Config.F1MenuHelpPageTitle = "Wiki page"
 
 -- Put Steam ID's and ranks in this list, and the players will have that rank when they join.
 GM.Config.DefaultPlayerGroups = {
-	["STEAM_0:0:00000000"] = "superadmin",
-	["STEAM_0:0:11111111"] = "admin",
+
 }
 
 -- Custom modules in this addon that are disabled.
