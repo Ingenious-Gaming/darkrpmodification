@@ -32,7 +32,7 @@ DarkRP.disabledDefaults["modules"] = {
 	["hungermod"]        = true,
 	["playerscale"]      = false,
 	["sleep"]            = false,
-	["fadmin"]           = false,
+	["fadmin"]           = true,
 }
 
 
@@ -61,16 +61,16 @@ DarkRP.disabledDefaults["jobs"] = {
 Shipments and pistols
 ---------------------------------------------------------------------------]]
 DarkRP.disabledDefaults["shipments"] = {
-	["AK47"]         = false,
-	["Desert eagle"] = false,
-	["Fiveseven"]    = false,
-	["Glock"]        = false,
-	["M4"]           = false,
-	["Mac 10"]       = false,
-	["MP5"]          = false,
-	["P228"]         = false,
-	["Pump shotgun"] = false,
-	["Sniper rifle"] = false,
+	["AK47"]         = true,
+	["Desert eagle"] = true,
+	["Fiveseven"]    = true,
+	["Glock"]        = true,
+	["M4"]           = true,
+	["Mac 10"]       = true,
+	["MP5"]          = true,
+	["P228"]         = true,
+	["Pump shotgun"] = true,
+	["Sniper rifle"] = true,
 }
 
 --[[---------------------------------------------------------------------------
