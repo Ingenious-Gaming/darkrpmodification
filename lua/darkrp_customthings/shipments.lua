@@ -293,8 +293,8 @@ DarkRP.createShipment(
     {
         model = "models/weapons/w_auga3.mdl", -- The model of the item that hovers above the shipment
         entity = "m9k_auga3", -- the entity that comes out of the shipment
-        price = 1, -- the price of one shipment
-        pricesep = 1, -- the price of a separately sold item
+        price = 30400, -- the price of one shipment
+        pricesep = 3200, -- the price of a separately sold item
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
@@ -315,3 +315,98 @@ DarkRP.createShipment(
         allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
+
+--[[----------------------------------------------------
+M9K Submachine Guns
+--]]
+
+DarkRP.createShipment(
+    "AAC Honey Badger Shipment",
+    {
+        model = "models/weapons/w_aac_honeybadger.mdl", -- The model of the item that hovers above the shipment
+        entity = "m9k_honeybadger", -- the entity that comes out of the shipment
+        price = 21850, -- the price of one shipment
+        pricesep = 2300, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+
+DarkRP.createShipment(
+    "Bizon PP19 Shipment",
+    {
+        model = "models/weapons/w_pp19_bizon.mdl", -- The model of the item that hovers above the shipment
+        entity = "m9k_bizonp19", -- the entity that comes out of the shipment
+        price = 13300, -- the price of one shipment
+        pricesep = 1400, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+
+DarkRP.createShipment(
+    "FN P90 Shipment",
+    {
+        model = "models/weapons/w_fn_p90.mdl", -- The model of the item that hovers above the shipment
+        entity = "m9k_smgp90", -- the entity that comes out of the shipment
+        price = 21850, -- the price of one shipment
+        pricesep = 2300, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+
+
+DarkRP.createShipment(
+    "HK MP7 Shipment",
+    {
+        model = "models/weapons/w_mp7_silenced.mdl", -- The model of the item that hovers above the shipment
+        entity = "m9k_mp7", -- the entity that comes out of the shipment
+        price = 10450, -- the price of one shipment
+        pricesep = 1100, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+
+DarkRP.createShipment(
+    "HK UMP45 Shipment",
+    {
+        model = "models/weapons/w_hk_ump45.mdl", -- The model of the item that hovers above the shipment
+        entity = "m9k_ump45", -- the entity that comes out of the shipment
+        price = 11352, -- the price of one shipment
+        pricesep = 1195, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+
+DarkRP.createShipment(
+    "HK USC Shipment",
+    {
+        model = "models/weapons/w_hk_usc.mdl", -- The model of the item that hovers above the shipment
+        entity = "m9k_usc", -- the entity that comes out of the shipment
+        price = 10450, -- the price of one shipment
+        pricesep = 1100, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
