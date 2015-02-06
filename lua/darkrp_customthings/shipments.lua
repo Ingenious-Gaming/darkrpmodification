@@ -23,12 +23,12 @@ DarkRP.createShipment(
     {
         model = "models/weapons/w_ak47_m9k.mdl", -- The model of the item that hovers above the shipment
         entity = "m9k_ak47", -- the entity that comes out of the shipment
-        price = 100, -- the price of one shipment
+        price = 6000, -- the price of one shipment
         amount = 10, -- how many of the item go in one purchased shipment
-        separate = true, -- whether the item is sold separately (usually used for guns)
-        pricesep = 100, -- the price of a separately sold item
+        separate = false, -- whether the item is sold separately (usually used for guns)
+        pricesep = 630, -- the price of a separately sold item
         noship = false, -- whether this item has a shipment
-        allowed = {TEAM_GUN, TEAM_MEDIC}, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
         shipmodel = "models/items/item_item_crate.mdl", -- OPTIONAL, the model of the shipment (this crate is the default)
         spareammo = 10, -- OPTIONAL, Add ammo to the default amount of ammo for every weapon
         clip1 = 30, -- OPTIONAL, The amount of bullets in the primary clip by default
