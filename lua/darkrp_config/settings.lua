@@ -82,7 +82,7 @@ GM.Config.dynamicvoice 					= true
 -- earthquakes - Enable/disable earthquakes.
 GM.Config.earthquakes 					= false
 -- enablebuypistol - Turn /buy on of off.
-GM.Config.enablebuypistol 				= false
+GM.Config.enablebuypistol 				= true
 -- enforceplayermodel - Whether or not to force players to use their role-defined character models.
 GM.Config.enforceplayermodel 			= true
 -- globalshow - Whether or not to display player info above players' heads in-game.
@@ -128,7 +128,7 @@ GM.Config.respawninjail 				= true
 -- restrictallteams - Enable/disable Players can only be citizen until an admin allows them.
 GM.Config.restrictallteams 				= false
 -- restrictbuypistol - Enabling this feature makes /buy available only to Gun Dealers.
-GM.Config.restrictbuypistol 			= false
+GM.Config.restrictbuypistol 			= true
 -- restrictdrop - Enable/disable restricting the weapons players can drop. Setting this to true disallows weapons from shipments from being dropped
 GM.Config.restrictdrop 					= false
 -- shouldResetLaws - Enable/Disable resetting the laws back to the default law set when the mayor changes
