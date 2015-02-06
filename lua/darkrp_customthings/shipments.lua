@@ -32,7 +32,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -46,7 +46,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -60,7 +60,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -74,7 +74,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -88,7 +88,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -102,7 +102,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -116,7 +116,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -130,7 +130,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -144,7 +144,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -158,7 +158,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -172,7 +172,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -186,7 +186,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -200,7 +200,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -214,7 +214,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -228,7 +228,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -242,7 +242,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -256,7 +256,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -270,7 +270,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -284,7 +284,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -298,7 +298,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -312,7 +312,406 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+--[[----------------------------------------------------
+M9K Pistols
+]]
+
+DarkRP.createShipment(
+    "Colt 1911 Shipment",
+    {
+        model = "models/weapons/s_dmgf_co1911.mdl", -- The model of the item that hovers above the shipment
+        entity = "s_dmgf_co1911", -- the entity that comes out of the shipment
+        price = 6650, -- the price of one shipment
+        pricesep = 700, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Colt Python Shipment",
+    {
+        model = "models/weapons/w_colt_python.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_colt_python", -- the entity that comes out of the shipment
+        price = 23750, -- the price of one shipment
+        pricesep = 2500, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Desert Eagle Shipment",
+    {
+        model = "models/weapons/w_tcom_deagle.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_tcom_deagle", -- the entity that comes out of the shipment
+        price = 17100, -- the price of one shipment
+        pricesep = 1800, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Glock 18 Shipment",
+    {
+        model = "models/weapons/w_dmg_glock.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_dmg_glock", -- the entity that comes out of the shipment
+        price = 4465, -- the price of one shipment
+        pricesep = 470, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "HK USP Shipment",
+    {
+        model = "models/weapons/w_pist_usp.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_pist_usp.mdl", -- the entity that comes out of the shipment
+        price = 7837, -- the price of one shipment
+        pricesep = 825, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "HK 45C Shipment",
+    {
+        model = "models/weapons/w_hk45c.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_hk45c", -- the entity that comes out of the shipment
+        price = 11400, -- the price of one shipment
+        pricesep = 1200, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "M29 Satan Shipment",
+    {
+        model = "models/weapons/w_m29_satan.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_m29_satan", -- the entity that comes out of the shipment
+        price = 11875, -- the price of one shipment
+        pricesep = 1250, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "M92 Beretta Shipment",
+    {
+        model = "models/weapons/w_beretta_m92.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_beretta_m92", -- the entity that comes out of the shipment
+        price = 5700, -- the price of one shipment
+        pricesep = 600, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "P08 Luger Shipment",
+    {
+        model = "models/weapons/w_luger_p08.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_luger_p08", -- the entity that comes out of the shipment
+        price = 7125, -- the price of one shipment
+        pricesep = 750, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Raging Bull Shipment",
+    {
+        model = "models/weapons/w_taurus_raging_bull.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_taurus_raging_bull", -- the entity that comes out of the shipment
+        price = 7600, -- the price of one shipment
+        pricesep = 800, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Raging Bull Scoped Shipment",
+    {
+        model = "models/weapons/w_raging_bull_scoped.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_raging_bull_scoped", -- the entity that comes out of the shipment
+        price = 9500, -- the price of one shipment
+        pricesep = 1000, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Remington 1858 Shipment",
+    {
+        model = "models/weapons/w_remington_1858.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_remington_1858", -- the entity that comes out of the shipment
+        price = 5225, -- the price of one shipment
+        pricesep = 550, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "SW Model 3 Russian Shipment",
+    {
+        model = "models/weapons/w_model_3_rus.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_model_3_rus", -- the entity that comes out of the shipment
+        price = 4750, -- the price of one shipment
+        pricesep = 500, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "SW Model 500 Shipment",
+    {
+        model = "models/weapons/w_sw_model_500.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_sw_model_500", -- the entity that comes out of the shipment
+        price = 11400, -- the price of one shipment
+        pricesep = 1200, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "SW Model 627 Shipment",
+    {
+        model = "models/weapons/w_sw_model_627.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_sw_model_627", -- the entity that comes out of the shipment
+        price = 9500, -- the price of one shipment
+        pricesep = 1000, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "SIG Sauer P229R Shipment",
+    {
+        model = "models/weapons/w_sig_229r.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_sig_229r", -- the entity that comes out of the shipment
+        price = 7125, -- the price of one shipment
+        pricesep = 750, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+--[[----------------------------------------------------
+M9K Shotguns 
+--]]
+
+DarkRP.createShipment(
+    "Beneli M3 Shipment",
+    {
+        model = "models/weapons/w_benelli_m3.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_benelli_m3", -- the entity that comes out of the shipment
+        price = 11400, -- the price of one shipment
+        pricesep = 1200, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Brownging Auto 5 Shipment",
+    {
+        model = "models/weapons/w_browning_auto.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_browning_auto", -- the entity that comes out of the shipment
+        price = 13300, -- the price of one shipment
+        pricesep = 1400, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Double Barrel Shotgun Shipment",
+    {
+        model = "models/weapons/w_double_barrel_shotgun.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_double_barrel_shotgun", -- the entity that comes out of the shipment
+        price = 9500, -- the price of one shipment
+        pricesep = 1000, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Ithaca M37 Shipment",
+    {
+        model = "models/weapons/w_ithaca_m37.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_ithaca_m37", -- the entity that comes out of the shipment
+        price = 6650, -- the price of one shipment
+        pricesep = 700, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Mosberg 590 Shipment",
+    {
+        model = "models/weapons/w_mossberg_590.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_mossberg_590", -- the entity that comes out of the shipment
+        price = 4940, -- the price of one shipment
+        pricesep = 520, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Pancor Jackhammer Shipment",
+    {
+        model = "models/weapons/w_pancor_jackhammer.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_pancor_jackhammer", -- the entity that comes out of the shipment
+        price = 266000, -- the price of one shipment
+        pricesep = 28000, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Remington 870 Shipment",
+    {
+        model = "models/weapons/w_remington_870_tact.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_remington_870_tact", -- the entity that comes out of the shipment
+        price = 41750, -- the price of one shipment
+        pricesep = 500, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "SPAS 12 Shipment",
+    {
+        model = "models/weapons/w_spas_12.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_spas_12", -- the entity that comes out of the shipment
+        price = 14250, -- the price of one shipment
+        pricesep = 1500, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Striker 12 Shipment",
+    {
+        model = "models/weapons/w_striker_12g.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_striker_12g", -- the entity that comes out of the shipment
+        price = 17075, -- the price of one shipment
+        pricesep = 2850, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "USAS Shipment",
+    {
+        model = "models/weapons/w_usas_12.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_usas_12", -- the entity that comes out of the shipment
+        price = 19950, -- the price of one shipment
+        pricesep = 2100, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Winchester 1897 Shipment",
+    {
+        model = "models/weapons/w_winchester_1897_trench.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_winchester_1897_trench", -- the entity that comes out of the shipment
+        price = 7600, -- the price of one shipment
+        pricesep = 800, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+    }
+)
+
+DarkRP.createShipment(
+    "Winchester 87 Shipment",
+    {
+        model = "models/weapons/w_winchester_1887.mdl", -- The model of the item that hovers above the shipment
+        entity = "w_winchester_1887", -- the entity that comes out of the shipment
+        price = 3800, -- the price of one shipment
+        pricesep = 400, -- the price of a separately sold item
+        amount = 10, -- how many of the item go in one purchased shipment
+        separate = false, -- whether the item is sold separately (usually used for guns
+        noship = false, -- whether this item has a shipment
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -330,7 +729,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -345,7 +744,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -360,7 +759,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -376,7 +775,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -391,7 +790,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
@@ -406,7 +805,7 @@ DarkRP.createShipment(
         amount = 10, -- how many of the item go in one purchased shipment
         separate = false, -- whether the item is sold separately (usually used for guns
         noship = false, -- whether this item has a shipment
-        allowed = { TEAM_GUN }, -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
+        allowed = { TEAM_GUN } -- OPTIONAL, which teams are allowed to buy this shipment/separate gun
     }
 )
 
