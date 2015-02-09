@@ -45,3 +45,48 @@ GAMEMODE.CivilProtection = {
 Jobs that are hitmen (enables the hitman menu)
 ---------------------------------------------------------------------------]]
 DarkRP.addHitmanTeam(TEAM_MOB)
+
+TEAM_SUPERADMIN = DarkRP.createJob("Superadmin On Duty", {
+    color = Color(170, 0, 0, 255),
+    model = "models/player/zeus_combine_v2/zeus_combine_v2.mdl",
+    description = [[Admin on duty is a non-rp class, when you are not rp-ing
+        but are administrating be sure to be this class.]],
+    weapons = {},
+    command = "superdoodie",
+    max = 0,
+    salary = 100,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    customCheck = function(ply) return ply:GetUserGroup() == "superadmin" end,
+})
+
+TEAM_ADMIN = DarkRP.createJob("Admin On Duty", {
+    color = Color(170, 0, 0, 255),
+    model = "models/player/zeus_combine_v2/zeus_combine_v2.mdl",
+    description = [[Admin on duty is a non-rp class, when you are not rp-ing
+        but are administrating be sure to be this class.]],
+    weapons = {},
+    command = "admindoodie",
+    max = 0,
+    salary = 0,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    customCheck = function(ply) return ply:GetUserGroup() == "admin" end,
+})
+
+TEAM_MODERATOR = DarkRP.createJob("Moderator On Duty", {
+    color = Color(170, 0, 0, 255),
+    model = "models/player/zeus_combine_v2/zeus_combine_v2.mdl",
+    description = [[Mod on duty is a non-rp class, when you are not rp-ing
+        but are moderating be sure to be this class.]],
+    weapons = {},
+    command = "moddoodie",
+    max = 0,
+    salary = 0,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    customCheck = function(ply) return ply:GetUserGroup() == "moderator" end,
+})
